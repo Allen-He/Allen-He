@@ -11,4 +11,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Allen-He&show_icons=true&locale=en" alt="Allen-He" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Allen-He&show_icons=true&locale=en&layout=compact" alt="Allen-He" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 12px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allen-He&show_icons=true&locale=en" alt="Allen-He" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Allen-He&show_icons=true&locale=en&layout=compact" alt="Allen-He" />
+</div>
